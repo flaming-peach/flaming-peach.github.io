@@ -4,7 +4,7 @@ highlighter: pygments
 
 permalink: /:title
 
-title: Siberiawolf的小窝
-url: http://siberiawolf.com
+title: FlamingPeach的主页
+url: http://flaming-peach.github.io
 feed: /atom.xml  
-author_info: <a href="http://siberiawolf.com/">siberiawolf</a>
+author_info: <a href="http://flaming-peach.github.io/">FlamingPeach</a>
