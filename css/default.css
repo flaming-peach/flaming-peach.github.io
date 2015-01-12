@@ -269,13 +269,13 @@ pre ol {
 	background-position:50% 50%;
 }
 .blog .aside {
-	background-image:url(/images/IMG_0242.JPG);
+	background-image:url("/images/IMG_0242.JPG");
 }
 .opinion .aside {
-	background-image:url(/images/IMG_0261.JPG);
+	background-image:url("/images/IMG_0261.JPG");
 }
 .project .aside {
-	background-image:url(/images/IMG_0258.JPG)
+	background-image:url("/images/IMG_0258.JPG");
 }
 .index-content .section {
 	margin-left:30%;
